@@ -1,0 +1,92 @@
+baseURL: "https://bernardosousa.github.io/"
+title: Bernardo Sousa
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+  tag: tags
+
+menu:
+  main: 
+    - name: Papers 
+      url: papers/
+      weight: 1
+
+params:
+  description: "I am a PhD student in Business and Economics at the University of Aveiro. My research focuses on the use of artificial intelligence in project management."
+  author: Bernardo Sousa
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["papers"]
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Bernardo Sousa
+    subtitle: "I am a PhD student in Business and Economics at the University of Aveiro. My research focuses on the use of artificial intelligence in project management."
+    imageUrl: "picture.jpeg"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: Bernardo Sousa
+    buttons:
+      - name: Papers
+        url: papers/
+    
+  socialIcons:
+    - name: Email
+      url: mailto:bernardosousa@ua.pt
+    - name: CV
+      url: cv.pdf
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/bernardotdesousa/
+    - name: ResearchGate
+      url: https://www.researchgate.net/profile/Bernardo-De-Sousa
+    - name: ORCID
+      url: https://orcid.org/0009-0003-2838-275X
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=HTTUJn8AAAAJ&hl=pt-PT
+    - name: GitHub
+      url: https://github.com/the-bernardo
+
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Bernardo Sousa"
+    icon: favicon.ico
+    iconHeight: 18
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
