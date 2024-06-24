@@ -27,8 +27,4 @@ Sousa  B,  Alves  C,  Mendes  M,  Au-Yong-Oliveira  M.  Competing  with  Intel  
 
 + [Paper](paper1.pdf)
 
----
 
-##### Related material
-
-+ [Publication]([https://ieeexplore.ieee.org/abstract/document/9476337])
