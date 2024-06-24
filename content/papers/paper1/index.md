@@ -1,9 +1,9 @@
 ---
 title: "Competing with Intel and Nvidia: The Revival of Advanced Micro Devices (AMD)" 
 date: 2021-06-26
-tags: ["amd","innovation","technology","strategic management"]
+tags: ["AMD","innovation","technology","management"]
 author: ["Bernardo Sousa","Cláudia Alves","Marta Mendes", "Manuel Au-Yong-Oliveira"]
-description: "A case study on AMD's strategic overhaul under Dr. Lisa Su, highlighting its innovative adaptation to avoid bankruptcy and re-emerge as a market leader in the semiconductor industry." 
+description: "A case study on AMD's strategic overhaul under Dr. Lisa Su's leadership, highlighting its reemergence as a market leader in the semiconductor industry." 
 cover:
     image:
     alt: 
@@ -11,7 +11,7 @@ cover:
 
 ---
 
-##### Abstract
+##### 
 
 In this case study, we analyzed the unlikely success story of Advanced Micro Devices (AMD). The company, struggling with adaptation issues and potential bankruptcy, restructured its strategy under Dr. Lisa Su's leadership. By focusing on high-performance computer components, AMD regained its position as a market leader. The study relied on interviews, the company's website, and academic articles to understand the strategies that influenced AMD's resurgence.
 
@@ -31,4 +31,4 @@ Sousa  B,  Alves  C,  Mendes  M,  Au-Yong-Oliveira  M.  Competing  with  Intel  
 
 ##### Related material
 
-+ [Presentation of the paper @CISTI2021](presentationpaper1.pdf)
++ [Publication]([https://ieeexplore.ieee.org/abstract/document/9476337])
